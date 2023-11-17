@@ -4,4 +4,4 @@ In this repo:
 - The slides of my talk
 - Some links about Data Mesh
 - Images credits
-- My personal social network
+- My contacts
